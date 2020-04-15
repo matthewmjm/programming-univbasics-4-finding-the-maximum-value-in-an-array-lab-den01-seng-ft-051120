@@ -1,4 +1,5 @@
 def find_max_value(array)
   # Add your solution here
-  array.reverse![0]
+  answer = array.reverse[0]
+  answer
 end
